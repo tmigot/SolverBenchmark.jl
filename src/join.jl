@@ -18,7 +18,7 @@ Keyword arguments:
 - `hdr_override::Dict{Symbol,String}`: Override header names.
 
 Output:
-- `df::DataFrame`: Resulting dataframe.
+- `df::DataFrame`: Resulting dataframe. hihi
 """
 function join(stats::Dict{Symbol,DataFrame},
               cols::Array{Symbol,1};
